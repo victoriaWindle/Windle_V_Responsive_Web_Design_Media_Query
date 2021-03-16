@@ -2,10 +2,10 @@
 
 This is project #4 for 1056.
 
-#Prerequisites
+# Prerequisites
 A browser to open the html file.
 
-#Usage
+# Usage
 A demonstration of media query. Open the folder and open the index.html file.
 
 Copyright 2021 Victoria Windle
