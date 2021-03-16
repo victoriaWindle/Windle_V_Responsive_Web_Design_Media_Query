@@ -1,0 +1,63 @@
+#hidden
+{
+	display: none;
+}
+
+#container
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#box1
+{
+	background-color: blue;
+	width: 25%;
+	height: 100vh;
+}
+
+#box2
+{
+	background-color: purple;
+	width: 25%;
+	height: 100vh;
+}
+
+#box3
+{
+	background-color: grey;
+	width: 25%;
+	height: 100vh;
+}
+
+#box4
+{
+	background-color: brown;
+	width: 25%;
+	height: 100vh;
+}
+
+@media screen and (max-width: 641px)
+{
+	#box1
+	{
+		background-color: pink;
+		width: 50%;
+	}
+
+	#box2
+	{
+		background-color: red;
+		width: 50%;
+	}
+
+	#box3
+	{
+		display: none;
+	}
+
+	#box4
+	{
+		display: none;
+	}
+}
